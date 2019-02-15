@@ -1,0 +1,22 @@
+#server.port=8088
+#
+#eureka.instance.hostname=localhost
+#eureka.instance.prefer-ip-address=true
+#
+#eureka.client.registerWithEureka=false
+#eureka.client.fetchRegistry=false
+#eureka.client.service-url.defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+server:
+    port: 11111
+eureka:
+    instance:
+        hostname: localhost
+        prefer-ip-address: true
+client:
+    registerWithEureka: false
+    fetchRegistry: false
+    service-url:
+        defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+spring:
+    application:
+        name: Eureak-Service
