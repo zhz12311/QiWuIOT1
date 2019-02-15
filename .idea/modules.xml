@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Config-Service/Config-Service.iml" filepath="$PROJECT_DIR$/Config-Service/Config-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eureak-Service/Eureak-Service.iml" filepath="$PROJECT_DIR$/Eureak-Service/Eureak-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro-User/Pro-User.iml" filepath="$PROJECT_DIR$/Pro-User/Pro-User.iml" />
       <module fileurl="file://$PROJECT_DIR$/QiWuIOT111.iml" filepath="$PROJECT_DIR$/QiWuIOT111.iml" />
     </modules>
   </component>
