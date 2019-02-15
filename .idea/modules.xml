@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Config-Service/Config-Service.iml" filepath="$PROJECT_DIR$/Config-Service/Config-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureak-Service/Eureak-Service.iml" filepath="$PROJECT_DIR$/Eureak-Service/Eureak-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QiWuIOT111.iml" filepath="$PROJECT_DIR$/QiWuIOT111.iml" />
+    </modules>
+  </component>
+</project>
